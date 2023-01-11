@@ -143,3 +143,5 @@ Wash trading is defined as "Entering into, or purporting to enter into, transact
 ### Gas Guzzlers
 For any transaction on Ethereum a user must supply gas. How has gas price changed over time? Have contracts become more complicated, requiring more gas, or less so? How does this correlate with your results seen within Part B. To obtain these marks you should provide a graph showing how gas price has changed over time, a graph showing how gas_used for contract transactions has changed over time and identify if the most popular contracts use more or less than the average gas_used.(15/40)
 
+## Results
+Finished the project with 100% marks along with the feedback "Excellent submission. Full marks. A good attempt at wash trading." 
