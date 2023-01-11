@@ -1,0 +1,4 @@
+# BigData-Spark-project
+Analysis of Ethereum Transactions and Smart Contracts using Apache Spark
+The goal of this coursework is to apply the techniques covered in the first half of Big Data Processing to analyse the full set of transactions which have occurred on the Ethereum network; from the first transactions in August 2015 till January 2019. You will create several Map/Reduce or Spark programs to perform multiple types of computation. You will submit a report containing your results alongside an explanation of how they were obtained.
+There are many resources available for understanding Ethereum and blockchain technology; a good place to start are these two short videos taken from this article, followed up by the Ethereum White Paper . There are also may sites dedicated to providing information about individual blocks, transactions and wallets, such as Etherscan and Ethplorer.
